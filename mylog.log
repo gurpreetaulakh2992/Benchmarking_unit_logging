@@ -1,0 +1,6 @@
+2021-03-29 10:49:05,327 - root - INFO at line 66 in Assignment3.py : Time for path ['A','B','C'] is: 3.9400000000001933e-05
+2021-03-29 10:49:05,327 - root - INFO at line 50 in Assignment3.py : Shortest Route is A->D:5
+2021-03-29 10:49:05,327 - root - INFO at line 50 in Assignment3.py : Shortest Route is A->B:5 B->C:4
+2021-03-29 10:49:05,327 - root - INFO at line 86 in Assignment3.py : Time for short path is: 8.289999999999687e-05
+2021-03-29 10:49:05,327 - root - ERROR at line 19 in Assignment3.py : Particular paths needs route as type list: provided <class 'tuple'>
+2021-03-29 10:49:05,327 - root - WARNING at line 36 in Assignment3.py : Invalid end point
